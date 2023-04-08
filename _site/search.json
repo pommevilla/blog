@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Paul Villanueva, a bioinformatics PhD candidate in the GERMS lab. I use data science to answer questions about how human activity is impacting, particularly agriculture, is impacting the environment around us.\nThis blog collects some of the random things I’ve worked on or found interesting (typically when I’m procrastinating from writing my dissertation)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 5, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I’m Paul Villanueva, a bioinformatics PhD candidate in the GERMS lab. I use data science to answer questions about how human activity is impacting, particularly agriculture, is impacting the environment around us."
   },
   {
     "objectID": "posts/welcome/index.html",
