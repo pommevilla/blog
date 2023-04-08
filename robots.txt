@@ -1,1 +1,1 @@
-Sitemap: https://pommevilla.github.io/blog/sitemap.xml
+Sitemap: https://github.com/pommevilla/blog/sitemap.xml

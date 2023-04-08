@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pommevilla.github.io/blog/about.html</loc>
-    <lastmod>2023-04-08T18:38:30.677Z</lastmod>
+    <loc>https://github.com/pommevilla/blog/posts/welcome/index.html</loc>
+    <lastmod>2023-04-08T18:40:39.366Z</lastmod>
   </url>
   <url>
-    <loc>https://pommevilla.github.io/blog/index.html</loc>
-    <lastmod>2023-04-08T18:38:30.937Z</lastmod>
+    <loc>https://github.com/pommevilla/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-04-08T18:40:40.006Z</lastmod>
   </url>
   <url>
-    <loc>https://pommevilla.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2023-04-08T18:38:31.097Z</lastmod>
+    <loc>https://github.com/pommevilla/blog/index.html</loc>
+    <lastmod>2023-04-08T18:40:40.330Z</lastmod>
   </url>
   <url>
-    <loc>https://pommevilla.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-04-08T18:38:31.247Z</lastmod>
+    <loc>https://github.com/pommevilla/blog/about.html</loc>
+    <lastmod>2023-04-08T18:40:40.606Z</lastmod>
   </url>
 </urlset>
