@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+I'm Paul Villanueva, a bioinformatics PhD candidate in the [GERMS lab](http://www.germslab.org/). I use data science to answer questions about how human activity is impacting, particularly agriculture, is impacting the environment around us. 
+
+This blog collects some of the random things I've worked on or found interesting (typically when I'm procrastinating from writing my dissertation).
